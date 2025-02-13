@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\UserService</_PublishTargetUrl>
+    <History>True|2025-02-12T21:25:15.0374930Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/16/2024 23:46:24</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/16/2024 23:47:02</publishTime>
+    </File>
+    <File Include="bin/UserService.dll">
+      <publishTime>02/12/2025 23:25:14</publishTime>
+    </File>
+    <File Include="bin/UserService.pdb">
+      <publishTime>02/12/2025 23:25:14</publishTime>
+    </File>
+    <File Include="UserService.svc">
+      <publishTime>02/11/2025 20:56:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/12/2025 23:25:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
